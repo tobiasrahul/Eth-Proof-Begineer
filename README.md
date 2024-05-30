@@ -11,4 +11,26 @@ This project contains a simple smart contract in Solidity i.e. a programming lan
 
 # Getting Started
 ## Installing
-1. Anyone can download the project file from the github link
+1. Anyone can download the project file from the github link [@Create-a-token](https://github.com/tobiasrahul/Eth-Proof-Begineer/blob/main/Create%20a%20Token0) by clicking the download raw file aur pull into the system.
+2. Anyone who wish to contribute can request for commit change by making a pushing request.
+
+## Executing Program
+* To run the code you have to visit the Remix IDE which is a free open source platform to execute solidity program. You can visit the website through this link: https://remix.ethereum.org/
+* You need to make a file from file explorer on the left side of screen with .sol extension. For example: test.sol
+* Copy paste the code in the file and compile the code first to check whether there is no error syntactically.
+* Then deploy the project and pass the values for address and value(amount) for both the mint and burn functions and click on "transact" button for retrieving the values. Address for the account can be copied from the account mentioned below environment VM.
+
+# Help
+If you get stuck or face some error then please check the complier version from complier button.
+You can also use the below code to change the complier version:
+```
+pragma solidity ^0.8.18
+```
+This code will make your complier to run the code on complier version eqvialent to or greater than 0.8.18
+
+# Author
+  Rahul Berwal
+  [@tobiasrahul](https://github.com/tobiasrahul)
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for the details
