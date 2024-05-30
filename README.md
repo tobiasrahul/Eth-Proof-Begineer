@@ -11,7 +11,7 @@ This project contains a simple smart contract in Solidity i.e. a programming lan
 
 # Getting Started
 ## Installing
-1. Anyone can download the project file from the github link [@Create-a-token](https://github.com/tobiasrahul/Eth-Proof-Begineer/blob/main/Create%20a%20Token0) by clicking the download raw file aur pull into the system.
+1. Anyone can download the project file from the github link [@Create-a-token](https://github.com/tobiasrahul/Eth-Proof-Begineer/blob/main/Create_a_token) by clicking the download raw file aur pull into the system.
 2. Anyone who wish to contribute can request for commit change by making a pushing request.
 
 ## Executing Program
